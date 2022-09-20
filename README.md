@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @N-Boba
-- 👀 I’m interested in ... C#, C++, HTML, CSS, JS, MySQL, etc...
+- 👋 Hi, I’m Nick @N-Boba
+- 👀 I’m interested in ... C#, C++, HTML, CSS, JS, MySQL, Linux, etc...
 - 🌱 I’m currently learning ... All of the above!
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... on here!
