@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nick @N-Boba.
+- 👋 Hi, I’m Nick @JeddDrive.
 - 👀 I’m interested in ... C#, C++, HTML, CSS, JS, MySQL, Linux, etc...
 - 🌱 I’m currently learning ... All of the above!
 - 💞️ I’m looking to collaborate on ... Idk
